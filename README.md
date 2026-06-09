@@ -1,5 +1,17 @@
 # Laboratorio: Índices y Restricciones en Oracle
 
+**Universidad:** Universidad Internacional de La Rioja (UNIR)
+
+**Asignatura:** Bases de Datos Avanzadas
+
+**Alumno:** Julián Andrés Pantoja Acevedo
+
+**Profesor:** Deivis Eduard Ramírez Martínez
+
+**Fecha:** Junio 2026
+
+# Laboratorio: Índices y Restricciones en Oracle
+
 ## Descripción
 
 Este repositorio contiene los scripts SQL desarrollados para la práctica de Bases de Datos Avanzadas sobre índices, restricciones y transacciones en Oracle Database utilizando el esquema HR.
